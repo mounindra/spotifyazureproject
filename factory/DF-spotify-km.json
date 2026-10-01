@@ -1,0 +1,15 @@
+{
+	"name": "DF-spotify-km",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cadf8bfd-7e24-457e-a220-8669f80c2f66",
+		"tenantId": "c85452dc-428e-453b-a4b4-742591209cd8"
+	}
+}
